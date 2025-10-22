@@ -51,7 +51,7 @@ Appuie sur la barre d’espace pour commencer
 
 ---
 
-## Remmetre par défault
+## Remmettre par défault
 ### 1 - Ouvrir la console développeur
 - Raccourci:
     - `Ctrl + Shift + I` (Windows / Linux)
